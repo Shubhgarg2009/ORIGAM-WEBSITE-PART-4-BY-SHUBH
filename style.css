@@ -1,0 +1,293 @@
+h1 {
+    color:white;  
+    text-align: center;
+    
+}
+
+.name{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMC-2bWHnHTgV7j4FM_ymzL7DyQLWvvbXt3Q&usqp=CAU");
+    border:dashed;
+    border-width: 30px;
+    border-color:#EF0170;
+}
+.images{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+    border:dashed;
+    border-width:30px;
+    border-color: rgb(7, 189, 7);
+    background-color:lightgreen;
+}
+.h4{
+    background:pink;
+    color: blue;
+}
+.Gh1{
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiyJ1ujinp6Ehh_6id061pDMfzpg6TiVo_UA&usqp=CAU");
+text-align: center;
+border:dotted;
+    border-color: royalblue;
+}
+.images4{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+    background-color:lightcoral;
+}
+.P{
+    color: red;
+}
+.Thank{
+    color:crimson;
+}
+.h{
+    background-color: greenyellow;
+text-align: center;
+border:dotted;
+    border-color: royalblue;
+}
+.images5{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+    background-color:lightskyblue;
+}
+.p3{
+    color: darkolivegreen;
+    
+}
+.Thank2{
+    display:flex;
+    flex-wrap:wrap;
+    color:peru;
+}
+.Gh{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4iYlTbv4KekOm4rrwC4GH_oapKfMk8mS8IA&usqp=CAU");
+    text-align: center;
+    border:dotted;
+       color:darkorange;
+    }
+    .THANK{
+        color:darkorange;
+        text-transform: capitalize;
+    }
+    .video{
+        text-align:center;
+    }
+    .VIDEO{
+        position: relative;
+        
+    }
+    .VIDEO h2{
+        position: absolute;
+        color:black;
+        opacity: 0;
+        left:50%;
+        top:44%;
+        transform: translate(-50%,-50%);
+    }
+    .VIDEO:hover h2 {
+    opacity: 1;
+    }
+    .VIDEO:hover img{
+        opacity:0.5;
+    }
+    .non{
+        position: relative;
+        
+    }
+    .non h2{
+        position: absolute;
+        color:darkblue;
+        text-align: center;
+        opacity: 0;
+        left:50%;
+        top:40%;
+        transform: translate(-50%,-50%);
+    }
+    .non:hover h2 {
+    opacity: 1;
+    }
+    .non:hover img{
+        opacity:0.5;
+    }
+    .living{
+        position: relative;
+        
+    }
+    .living h2{
+        position: absolute;
+        color:darkgreen;
+        opacity: 0;
+        left:50%;
+        top:50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+    .living:hover h2 {
+    opacity: 1;
+    }
+    .living:hover img{
+        opacity:0.5;
+    }
+    .hu{
+        position: relative;
+        
+    }
+    .hu h2{
+        position: absolute;
+        color:darkgreen;
+        opacity: 0;
+        left:50%;
+        top:30%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+    .hu:hover h2 {
+    opacity: 1;
+    }
+    .hu:hover img{
+        opacity:0.5;
+    }
+    .b{
+        position: relative;
+        
+    }
+    .b h2{
+        position: absolute;
+        color:darkgreen;
+        opacity: 0;
+        left:50%;
+        top:34%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+    .b:hover h2 {
+    opacity: 1;
+    }
+    .b:hover img{
+        opacity:0.5;
+    }
+    .f{
+        position: relative;
+        
+    }
+    .f h2{
+        position: afsolute;
+        color:darkgreen;
+        opacity: 0;
+        left:50%;
+        top:50%;
+        
+        text-align: center;
+    }
+    .f:hover h2 {
+    opacity: 1;
+    }
+    .f:hover img{
+        opacity:0.5;
+    }
+    .a{
+        position: relative;
+        
+    }
+    .a h2{
+        position: aasolute;
+        color:darkgreen;
+        opacity: 0;
+        left:30%;
+        top:10%;
+     
+        text-align: center;
+    }
+    .a:hover h2 {
+    opacity: 1;
+    }
+    .a:hover img{
+        opacity:0.5;
+    }
+    .fu{
+        position: relative;
+        
+    }
+    .fu h2{
+        position: absolute;
+        color:darkgreen;
+        opacity: 0;
+        left:50%;
+        top:50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+    .fu:hover h2 {
+    opacity: 1;
+    }
+    .fu:hover img{
+        opacity:0.5;
+    }
+    .v{
+        position: relative;
+        
+    }
+    .v h2{
+        position: absolute;
+        color:darkgreen;
+        opacity: 0;
+        left:50%;
+        top:50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+    .v:hover h2 {
+    opacity: 1;
+    }
+    .v:hover img{
+        opacity:0.5;
+    }
+    .ho{
+        position: relative;
+        
+    }
+    .ho h2{
+        position: absolute;
+        color:darkgreen;
+        opacity: 0;
+        left:50%;
+        top:50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+    .ho:hover h2 {
+    opacity: 1;
+    }
+    .ho:hover img{
+        opacity:0.5;
+    }
+    .w{
+        position: relative;
+        
+    }
+    .w h2{
+        position: absolute;
+        color:darkgreen;
+        opacity: 0;
+        left:50%;
+        top:50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+    .w:hover h2 {
+    opacity: 1;
+    }
+    .w:hover img{
+        opacity:0.5;
+    }
+    .ORIGAMI{
+        text-align: center;
+        color:maroon;
+        background-color: chartreuse;
+        border:dotted;
+        border-width:30px;
+        border-color: crimson;
+    }
